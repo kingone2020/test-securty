@@ -1,0 +1,4 @@
+ cat filename | grep name 
+la -al 
+mkdir testology
+ thi is my first file
